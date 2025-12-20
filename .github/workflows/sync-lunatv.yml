@@ -1,10 +1,12 @@
-name: Sync LunaTV Config
+name: Sync LunaTV Subscription
 
 on:
   schedule:
+    # 每天 UTC 02:00（北京时间 10:00）
     - cron: "0 2 * * *"
   workflow_dispatch:
 
+# 关键：允许 Actions 写入仓库
 permissions:
   contents: write
 
@@ -13,21 +15,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      # 1️⃣ 拉取仓库代码
+      - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2️⃣ 安装 Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Run transform script
-        run: node scripts/transform.js
-
-      - name: Commit & push if changed
+      # 3️⃣ 执行转换脚本（并发检测 + 排序 + README）
+      - name: Generate subscription files
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add output.json
-          git diff --cached --quiet || git commit -m "chore: auto update LunaTV config"
-          git push
+          node scripts/transform.js
+
+      # 4️⃣ 提交变更（如有）
+      - name: Commit and push changes
+        run: |
