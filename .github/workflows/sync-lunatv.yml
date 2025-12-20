@@ -2,8 +2,11 @@ name: Sync LunaTV Config
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # 每天 UTC 02:00（北京时间 10:00）
+    - cron: "0 2 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   sync:
@@ -19,8 +22,7 @@ jobs:
           node-version: 20
 
       - name: Run transform script
-        run: |
-          node scripts/transform.js
+        run: node scripts/transform.js
 
       - name: Commit & push if changed
         run: |
