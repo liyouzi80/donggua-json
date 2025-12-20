@@ -1,21 +1,45 @@
 import fs from "fs";
 import https from "https";
+import http from "http";
 
 const SOURCE_URL =
   "https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/LunaTV-config.json";
 
+const TIMEOUT = 5000;
+
 /** 拉取 JSON */
 function fetchJson(url) {
   return new Promise((resolve, reject) => {
-    https.get(url, res => {
-      let data = "";
-      res.on("data", chunk => (data += chunk));
-      res.on("end", () => resolve(JSON.parse(data)));
-    }).on("error", reject);
+    https
+      .get(url, res => {
+        let data = "";
+        res.on("data", chunk => (data += chunk));
+        res.on("end", () => resolve(JSON.parse(data)));
+      })
+      .on("error", reject);
   });
 }
 
-/** 清洗 name：去 emoji / 特殊符号 */
+/** 探测 API 是否 200 */
+function checkApi(url) {
+  return new Promise(resolve => {
+    const lib = url.startsWith("https") ? https : http;
+
+    const req = lib.get(url, { timeout: TIMEOUT }, res => {
+      res.destroy();
+      resolve(res.statusCode === 200);
+    });
+
+    req.on("timeout", () => {
+      req.destroy();
+      resolve(false);
+    });
+
+    req.on("error", () => resolve(false));
+  });
+}
+
+/** 清洗 name */
 function cleanName(name = "") {
   return name
     .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, "")
@@ -23,42 +47,25 @@ function cleanName(name = "") {
     .trim();
 }
 
-/** 生成 key：域名 → 英文字母 */
+/** 生成 key */
 function genKey(domain) {
   return domain.replace(/[^a-zA-Z]/g, "").toLowerCase();
 }
 
 (async () => {
   const source = await fetchJson(SOURCE_URL);
-
   const apiSite = source.api_site || {};
+
   const usedKeys = new Set();
+  const sites = [];
 
-  const sites = Object.entries(apiSite).map(([domain, info]) => {
-    let key = genKey(domain);
+  for (const [domain, info] of Object.entries(apiSite)) {
+    const ok = await checkApi(info.api);
 
-    // 防止极端情况下 key 冲突
-    let suffix = 1;
-    while (usedKeys.has(key)) {
-      key = `${key}${suffix++}`;
+    if (!ok) {
+      console.log(`❌ API 不可用，已跳过: ${info.api}`);
+      continue;
     }
-    usedKeys.add(key);
 
-    return {
-      key,
-      name: cleanName(info.name),
-      api: info.api,
-      active: true
-    };
-  });
-
-  const output = { sites };
-
-  fs.writeFileSync(
-    "output.json",
-    JSON.stringify(output, null, 2),
-    "utf-8"
-  );
-
-  console.log(`✅ 已生成 ${sites.length} 个站点`);
-})();
+    let key = genKey(domain);
+    let i = 1;
