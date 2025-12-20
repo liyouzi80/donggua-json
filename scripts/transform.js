@@ -103,7 +103,7 @@ function genKey(domain = "") {
 
     /* ---------- 生成 README.md ---------- */
 
-    const repo = process.env.GITHUB_REPOSITORY || "yourusername/yourrepo"; // <- 改成你的用户名/仓库名
+    const repo = process.env.GITHUB_REPOSITORY || "liyouzi80/donggua-json"; // <- 改成你的用户名/仓库名
     const [owner, repoName] = repo.split("/");
 
     const readmeContent = `# 📺 LunaTV 订阅源
