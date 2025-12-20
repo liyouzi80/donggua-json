@@ -1,0 +1,51 @@
+name: LunaTV Sync
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC 0 点执行
+  workflow_dispatch:   # 手动触发
+
+permissions:
+  contents: write      # 确保 workflow 有权限 push
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ 检出仓库
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 确保 git 能检测所有变化并 push
+
+      # 2️⃣ 设置 Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # 3️⃣ 安装依赖（如果 transform.js 依赖 npm 包，可添加）
+      #- name: Install dependencies
+      #  run: npm install
+
+      # 4️⃣ 运行 transform.js 生成 output.json 和 README.md
+      - name: Generate subscription files
+        run: node scripts/transform.js
+
+      # 5️⃣ 调试：确认文件生成
+      - name: List generated files
+        run: ls -l
+
+      # 6️⃣ Commit & push 更新
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add output.json README.md
+
+          # 强制 commit：即使之前文件不存在也能提交
+          git commit -m "chore: auto update LunaTV subscription" || echo "No changes to commit"
+
+          git push
