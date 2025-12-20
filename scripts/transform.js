@@ -10,21 +10,18 @@ const TIMEOUT = 5000;
 /** 拉取 JSON */
 function fetchJson(url) {
   return new Promise((resolve, reject) => {
-    https
-      .get(url, res => {
-        let data = "";
-        res.on("data", chunk => (data += chunk));
-        res.on("end", () => resolve(JSON.parse(data)));
-      })
-      .on("error", reject);
+    https.get(url, res => {
+      let data = "";
+      res.on("data", chunk => (data += chunk));
+      res.on("end", () => resolve(JSON.parse(data)));
+    }).on("error", reject);
   });
 }
 
-/** 探测 API 是否 200 */
+/** API 探测 */
 function checkApi(url) {
   return new Promise(resolve => {
     const lib = url.startsWith("https") ? https : http;
-
     const req = lib.get(url, { timeout: TIMEOUT }, res => {
       res.destroy();
       resolve(res.statusCode === 200);
@@ -56,16 +53,52 @@ function genKey(domain) {
   const source = await fetchJson(SOURCE_URL);
   const apiSite = source.api_site || {};
 
+  const entries = Object.entries(apiSite);
+
+  // 并发检测
+  const results = await Promise.all(
+    entries.map(async ([domain, info]) => {
+      const ok = await checkApi(info.api);
+      return { domain, info, ok };
+    })
+  );
+
   const usedKeys = new Set();
   const sites = [];
 
-  for (const [domain, info] of Object.entries(apiSite)) {
-    const ok = await checkApi(info.api);
-
+  for (const { domain, info, ok } of results) {
     if (!ok) {
-      console.log(`❌ API 不可用，已跳过: ${info.api}`);
+      console.log(`❌ 不可用: ${info.api}`);
       continue;
     }
 
     let key = genKey(domain);
     let i = 1;
+    while (usedKeys.has(key)) key = `${key}${i++}`;
+    usedKeys.add(key);
+
+    sites.push({
+      key,
+      name: cleanName(info.name),
+      api: info.api,
+      active: true
+    });
+
+    console.log(`✅ 可用: ${info.api}`);
+  }
+
+  // 稳定排序
+  sites.sort((a, b) => {
+    const nameCompare = a.name.localeCompare(b.name, "zh-CN");
+    if (nameCompare !== 0) return nameCompare;
+    return a.key.localeCompare(b.key);
+  });
+
+  fs.writeFileSync(
+    "output.json",
+    JSON.stringify({ sites }, null, 2),
+    "utf-8"
+  );
+
+  // 自动生成 README
+  const now = new Date().toLocaleString("zh-CN",
