@@ -90,16 +90,21 @@ function genKey(domain = "") {
       return n !== 0 ? n : a.key.localeCompare(b.key);
     });
 
-    // 写入 output.json
-    fs.writeFileSync("output.json", JSON.stringify({ sites }, null, 2), "utf-8");
+    // ---------- 添加 meta 时间戳 ----------
+    const now = new Date().toISOString();
+    const output = {
+      meta: {
+        updated_at: now
+      },
+      sites
+    };
+
+    fs.writeFileSync("output.json", JSON.stringify(output, null, 2), "utf-8");
 
     /* ---------- 生成 README.md ---------- */
 
-    // 确保 repo/owner 有默认值
     const repo = process.env.GITHUB_REPOSITORY || "yourusername/yourrepo"; // <- 改成你的用户名/仓库名
     const [owner, repoName] = repo.split("/");
-
-    const now = new Date().toLocaleString("zh-CN", { hour12: false });
 
     const readmeContent = `# 📺 LunaTV 订阅源
 
