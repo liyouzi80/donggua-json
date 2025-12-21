@@ -13,6 +13,12 @@
       "active": true
     },
     {
+      "key": "bdzycom",
+      "name": "百度云zy",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "bfzytv",
       "name": "暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -31,6 +37,12 @@
       "active": true
     },
     {
+      "key": "wwwhaohuazycom",
+      "name": "豪华资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwhongniuzycom",
       "name": "红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -43,9 +55,21 @@
       "active": true
     },
     {
+      "key": "zyjinchancaijicom",
+      "name": "金蝉影视",
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "jinyingzycom",
       "name": "金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lzizynet",
+      "name": "量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -85,6 +109,18 @@
       "active": true
     },
     {
+      "key": "wwwryzywcom",
+      "name": "如意资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zyshocn",
+      "name": "山海资源",
+      "api": "https://zy.sh0o.cn/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwsubozycom",
       "name": "速播资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
@@ -109,6 +145,12 @@
       "active": true
     },
     {
+      "key": "wujinzycom",
+      "name": "无尽影视",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wujinzyme",
       "name": "无尽资源",
       "api": "https://api.wujinapi.me/api.php/provide/vod",
@@ -124,6 +166,12 @@
       "key": "zuidaxyz",
       "name": "最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zuidazyco",
+      "name": "最大���播",
+      "api": "https://zuidazy.me/api.php/provide/vod",
       "active": true
     },
     {
