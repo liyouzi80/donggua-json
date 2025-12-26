@@ -55,9 +55,21 @@
       "active": true
     },
     {
+      "key": "zyjinchancaijicom",
+      "name": "金蝉影视",
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "jinyingzycom",
       "name": "金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lzizynet",
+      "name": "量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -70,6 +82,12 @@
       "key": "wwwmaoyanzycom",
       "name": "猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "mtzyme",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "active": true
     },
     {
@@ -97,6 +115,12 @@
       "active": true
     },
     {
+      "key": "zyshocn",
+      "name": "山海资源",
+      "api": "https://zy.sh0o.cn/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwsubozycom",
       "name": "速播资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
@@ -109,6 +133,12 @@
       "active": true
     },
     {
+      "key": "wwzytv",
+      "name": "旺旺短剧",
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "apiwwzytv",
       "name": "旺旺资源",
       "api": "https://api.wwzy.tv/api.php/provide/vod",
@@ -118,6 +148,12 @@
       "key": "wolongzywcom",
       "name": "卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wujinzycom",
+      "name": "无尽影视",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -136,6 +172,12 @@
       "key": "zuidaxyz",
       "name": "最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zuidazyco",
+      "name": "最大���播",
+      "api": "https://zuidazy.me/api.php/provide/vod",
       "active": true
     },
     {
