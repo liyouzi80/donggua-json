@@ -1,9 +1,27 @@
 {
   "sites": [
     {
+      "key": "zycom1",
+      "name": "155资源",
+      "api": "https://155api.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "zycom",
       "name": "360资源",
       "api": "https://360zyzz.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "jpzywcom",
+      "name": "91精品",
+      "api": "https://91jpzyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lovedannet",
+      "name": "艾旦影视",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "active": true
     },
     {
@@ -13,9 +31,21 @@
       "active": true
     },
     {
+      "key": "wwwkxgavcom",
+      "name": "白嫖资源",
+      "api": "https://www.kxgav.com/api/json.php",
+      "active": true
+    },
+    {
       "key": "bdzycom",
       "name": "百度云zy",
       "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apibwzymucom",
+      "name": "百万资源",
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -25,9 +55,33 @@
       "active": true
     },
     {
+      "key": "apidanaizicom",
+      "name": "大奶子",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "didizycom",
+      "name": "滴滴资源",
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "dbzytv",
       "name": "豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "doudouzycom",
+      "name": "豆豆资源",
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "fhapicom",
+      "name": "番号资源",
+      "api": "http://fhapi9.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -43,9 +97,33 @@
       "active": true
     },
     {
+      "key": "heiliaozycc",
+      "name": "黑料资源",
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwhongniuzycom",
       "name": "红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwhuyaapicom",
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "hsckzyxyz",
+      "name": "黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwpgxdycom",
+      "name": "黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
       "active": true
     },
     {
@@ -67,6 +145,30 @@
       "active": true
     },
     {
+      "key": "wwwjingpinxcom",
+      "name": "精品资源",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "kuaichezycom",
+      "name": "快车资源",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apiljcom",
+      "name": "辣椒资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://apilj.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lbapicom",
+      "name": "乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "lzizynet",
       "name": "量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -76,6 +178,12 @@
       "key": "cjlzcaijicom",
       "name": "量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "mdme",
+      "name": "麻豆视频",
+      "api": "https://91md.me/api.php/provide/vod",
       "active": true
     },
     {
@@ -91,6 +199,12 @@
       "active": true
     },
     {
+      "key": "wwwmsniicom",
+      "name": "美少女",
+      "api": "https://www.msnii.com/api/json.php",
+      "active": true
+    },
+    {
       "key": "caijimoduapicc",
       "name": "魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
@@ -100,6 +214,12 @@
       "key": "wwwmoduzynet",
       "name": "魔都资源",
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "naixxzycom",
+      "name": "奶香资源",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -115,15 +235,51 @@
       "active": true
     },
     {
+      "key": "semaozycom",
+      "name": "色猫资源",
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "slapibfcom",
+      "name": "森林资源",
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "shayuapicom",
+      "name": "鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "zyshocn",
       "name": "山海资源",
       "api": "https://zy.sh0o.cn/api.php/provide/vod",
       "active": true
     },
     {
+      "key": "shandianzycom",
+      "name": "闪电资源",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwsubozycom",
       "name": "速播资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "suonizynet",
+      "name": "索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "thzyme",
+      "name": "桃花资源",
+      "api": "https://thzy1.me/api.php/provide/vod",
       "active": true
     },
     {
@@ -163,9 +319,69 @@
       "active": true
     },
     {
+      "key": "wwwxxibaozywcom",
+      "name": "细胞资源",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xiangjiaozywcom",
+      "name": "香蕉资源",
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xiaojizylive",
+      "name": "小鸡资源",
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "active": true
+    },
+    {
       "key": "xinlangapicom",
       "name": "新浪资源",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xingbacom",
+      "name": "杏吧资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://xingba222.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xzytvcom",
+      "name": "幸资源",
+      "api": "https://xzybb2.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "yayazycom",
+      "name": "鸭鸭资源",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "yhzycc",
+      "name": "樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwyyzywcjcom",
+      "name": "优优资源",
+      "api": "https://www.yyzywcj.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zykcom",
+      "name": "优质资源",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "active": true
+    },
+    {
+      "key": "apiyutucom",
+      "name": "玉兔资源",
+      "api": "https://apiyutu.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -181,9 +397,33 @@
       "active": true
     },
     {
+      "key": "lbapibycom",
+      "name": "AIvin",
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "ckzyme",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "ikunzycom",
       "name": "iKun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "jkunzyapicom",
+      "name": "jkun资源",
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "souavzywcom",
+      "name": "souavZY",
+      "api": "https://api.souavzyw.net/api.php/provide/vod",
       "active": true
     },
     {
