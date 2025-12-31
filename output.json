@@ -1,21 +1,9 @@
 {
   "sites": [
     {
-      "key": "zycom1",
-      "name": "155资源",
-      "api": "https://155api.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "zycom",
       "name": "360资源",
       "api": "https://360zyzz.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "jpzywcom",
-      "name": "91精品",
-      "api": "https://91jpzyw.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -67,12 +55,6 @@
       "active": true
     },
     {
-      "key": "wwwhuyaapicom",
-      "name": "虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -106,12 +88,6 @@
       "key": "cjlzcaijicom",
       "name": "量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "mdme",
-      "name": "麻豆视频",
-      "api": "https://91md.me/api.php/provide/vod",
       "active": true
     },
     {
@@ -229,18 +205,6 @@
       "active": true
     },
     {
-      "key": "zykcom",
-      "name": "优质资源",
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
-      "active": true
-    },
-    {
-      "key": "apiyutucom",
-      "name": "玉兔资源",
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "zuidaxyz",
       "name": "最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -250,12 +214,6 @@
       "key": "zuidazyco",
       "name": "最大���播",
       "api": "https://zuidazy.me/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "lbapibycom",
-      "name": "AIvin",
-      "api": "http://lbapiby.com/api.php/provide/vod",
       "active": true
     },
     {
