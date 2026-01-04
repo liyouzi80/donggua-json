@@ -49,6 +49,12 @@
       "active": true
     },
     {
+      "key": "wwwhuyaapicom",
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -160,6 +166,18 @@
       "key": "xinlangapicom",
       "name": "新浪资源",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "yayazycom",
+      "name": "鸭鸭资源",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zykcom",
+      "name": "优质资源",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
       "active": true
     },
     {
