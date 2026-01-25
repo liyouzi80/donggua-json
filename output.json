@@ -1,6 +1,12 @@
 {
   "sites": [
     {
+      "key": "zycom",
+      "name": "360资源",
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "iqiyizyapicom",
       "name": "爱奇艺",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -10,6 +16,30 @@
       "key": "dbzytv",
       "name": "豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "jszyapicom",
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "cjlzcaijicom",
+      "name": "量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwmaoyanzycom",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "mtzyme",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "active": true
     },
     {
