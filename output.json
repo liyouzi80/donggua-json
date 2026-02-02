@@ -43,12 +43,6 @@
       "active": true
     },
     {
-      "key": "fhapicom",
-      "name": "番号资源",
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "apiguangsuapicom",
       "name": "光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -112,12 +106,6 @@
       "key": "mdme",
       "name": "麻豆视频",
       "api": "https://91md.me/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wwwmaoyanzycom",
-      "name": "猫眼资源",
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "active": true
     },
     {
@@ -217,6 +205,12 @@
       "active": true
     },
     {
+      "key": "zykcom",
+      "name": "优质资源",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "active": true
+    },
+    {
       "key": "apiyutucom",
       "name": "玉兔资源",
       "api": "https://apiyutu.com/api.php/provide/vod",
@@ -244,12 +238,6 @@
       "key": "ikunzycom",
       "name": "iKun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "apiukuapicom",
-      "name": "U酷影视",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "active": true
     }
   ]
