@@ -25,6 +25,12 @@
       "active": true
     },
     {
+      "key": "apiguangsuapicom",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwhongniuzycom",
       "name": "红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -43,12 +49,6 @@
       "active": true
     },
     {
-      "key": "cjlzcaijicom",
-      "name": "量子资源",
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wwwmaoyanzycom",
       "name": "猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -58,12 +58,6 @@
       "key": "mtzyme",
       "name": "茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "caijimoduapicc",
-      "name": "魔都动漫",
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "active": true
     },
     {
