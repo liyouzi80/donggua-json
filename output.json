@@ -7,9 +7,21 @@
       "active": true
     },
     {
+      "key": "lovedannet",
+      "name": "艾旦影视",
+      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "iqiyizyapicom",
       "name": "爱奇艺",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "bdzycom",
+      "name": "百度云zy",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -31,6 +43,12 @@
       "active": true
     },
     {
+      "key": "wwwhaohuazycom",
+      "name": "豪华资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwhongniuzycom",
       "name": "红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -49,15 +67,21 @@
       "active": true
     },
     {
+      "key": "cjlzcaijicom",
+      "name": "量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwmaoyanzycom",
       "name": "猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "active": true
     },
     {
-      "key": "mtzyme",
-      "name": "茅台资源",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "key": "caijimoduapicc",
+      "name": "魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "active": true
     },
     {
@@ -70,6 +94,12 @@
       "key": "pnet",
       "name": "飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwryzywcom",
+      "name": "如意资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
       "active": true
     },
     {
