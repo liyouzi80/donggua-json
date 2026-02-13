@@ -1,6 +1,12 @@
 {
   "sites": [
     {
+      "key": "zycom1",
+      "name": "155资源",
+      "api": "https://155api.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "zycom",
       "name": "360���源",
       "api": "https://360zyzz.com/api.php/provide/vod",
@@ -94,6 +100,12 @@
       "key": "cjlzcaijicom",
       "name": "量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "mdme",
+      "name": "麻豆视频",
+      "api": "https://91md.me/api.php/provide/vod",
       "active": true
     },
     {
@@ -193,6 +205,12 @@
       "active": true
     },
     {
+      "key": "yhzycc",
+      "name": "樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "zuidazyco",
       "name": "最大点播",
       "api": "https://zuidazy.me/api.php/provide/vod",
@@ -205,15 +223,15 @@
       "active": true
     },
     {
-      "key": "ikunzycom",
-      "name": "iKun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "key": "lbapibycom",
+      "name": "AIvin",
+      "api": "http://lbapiby.com/api.php/provide/vod",
       "active": true
     },
     {
-      "key": "apiukuapicom",
-      "name": "U酷影视",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "key": "ikunzycom",
+      "name": "iKun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "active": true
     }
   ]
