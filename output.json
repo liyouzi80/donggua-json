@@ -25,6 +25,12 @@
       "active": true
     },
     {
+      "key": "aosikazycom",
+      "name": "奥斯卡",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwkxgavcom",
       "name": "白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
@@ -52,6 +58,12 @@
       "key": "apidanaizicom",
       "name": "大奶子",
       "api": "https://apidanaizi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "didizycom",
+      "name": "滴滴资源",
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
       "active": true
     },
     {
@@ -253,6 +265,12 @@
       "active": true
     },
     {
+      "key": "siwazywtv",
+      "name": "丝袜资源",
+      "api": "https://siwazyw.tv/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwsubozycom",
       "name": "速播资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
@@ -268,6 +286,12 @@
       "key": "thzyme",
       "name": "桃花资源",
       "api": "https://thzy1.me/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwzytv",
+      "name": "旺旺短剧",
+      "api": "https://wwzy.tv/api.php/provide/vod",
       "active": true
     },
     {
@@ -376,6 +400,12 @@
       "key": "ckzyme",
       "name": "CK资源",
       "api": "https://ckzy.me/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "ikunzycom",
+      "name": "iKun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "active": true
     },
     {
