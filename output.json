@@ -67,12 +67,6 @@
       "active": true
     },
     {
-      "key": "caijimoduapicc",
-      "name": "魔都动漫",
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wwwmoduzynet",
       "name": "魔都资源",
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -82,12 +76,6 @@
       "key": "pnet",
       "name": "飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wwwsubozycom",
-      "name": "速播资源",
-      "api": "https://subocaiji.com/api.php/provide/vod",
       "active": true
     },
     {
