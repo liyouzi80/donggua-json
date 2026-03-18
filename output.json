@@ -73,12 +73,6 @@
       "active": true
     },
     {
-      "key": "wwwmoduzynet",
-      "name": "魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "pnet",
       "name": "飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
