@@ -125,6 +125,12 @@
       "name": "iKun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "active": true
+    },
+    {
+      "key": "apiukuapicom",
+      "name": "U酷影视",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "active": true
     }
   ]
 }
