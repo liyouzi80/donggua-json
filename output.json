@@ -13,6 +13,12 @@
       "active": true
     },
     {
+      "key": "iqiyizyapicom",
+      "name": "爱奇艺",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "bfzytv",
       "name": "暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -25,21 +31,9 @@
       "active": true
     },
     {
-      "key": "didizycom",
-      "name": "滴滴资源",
-      "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "dbzytv",
       "name": "豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "doudouzycom",
-      "name": "豆豆资源",
-      "api": "https://api.douapi.cc/api.php/provide/vod",
       "active": true
     },
     {
@@ -244,12 +238,6 @@
       "key": "yhzycc",
       "name": "樱花资源",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "zykcom",
-      "name": "优质资源",
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
       "active": true
     },
     {
