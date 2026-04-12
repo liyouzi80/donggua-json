@@ -61,6 +61,12 @@
       "active": true
     },
     {
+      "key": "hsckzyxyz",
+      "name": "黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -115,6 +121,12 @@
       "active": true
     },
     {
+      "key": "wwwmaoyanzycom",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "mtzyme",
       "name": "茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -136,12 +148,6 @@
       "key": "pnet",
       "name": "飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "slapibfcom",
-      "name": "森林资源",
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
       "active": true
     },
     {
