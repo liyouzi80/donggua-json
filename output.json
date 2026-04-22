@@ -325,6 +325,12 @@
       "active": true
     },
     {
+      "key": "xiangjiaozywcom",
+      "name": "香蕉资源",
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "xiaojizylive",
       "name": "小鸡资源",
       "api": "https://api.xiaojizy.live/provide/vod",
