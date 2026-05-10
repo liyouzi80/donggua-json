@@ -61,6 +61,12 @@
       "active": true
     },
     {
+      "key": "mtzyme",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "caijimoduapicc",
       "name": "魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
