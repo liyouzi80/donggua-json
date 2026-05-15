@@ -103,6 +103,12 @@
       "active": true
     },
     {
+      "key": "wwwpgxdycom",
+      "name": "黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "active": true
+    },
+    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -112,6 +118,12 @@
       "key": "jinyingzycom",
       "name": "金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwjingpinxcom",
+      "name": "精品资源",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -163,9 +175,9 @@
       "active": true
     },
     {
-      "key": "mtzyme",
-      "name": "茅台资源",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "key": "wwwmsniicom",
+      "name": "美少女",
+      "api": "https://www.msnii.com/api/json.php",
       "active": true
     },
     {
@@ -202,12 +214,6 @@
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "shayuapicom",
-      "name": "鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -265,6 +271,12 @@
       "active": true
     },
     {
+      "key": "wwwxxibaozywcom",
+      "name": "细胞资源",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "xiaojizylive",
       "name": "小鸡资源",
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -319,6 +331,12 @@
       "active": true
     },
     {
+      "key": "ckzyme",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "ikunzycom",
       "name": "iKun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -328,6 +346,12 @@
       "key": "jkunzyapicom",
       "name": "jkun资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "souavzywcom",
+      "name": "souavZY",
+      "api": "https://api.souavzyw.net/api.php/provide/vod",
       "active": true
     },
     {
