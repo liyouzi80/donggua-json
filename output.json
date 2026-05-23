@@ -109,15 +109,21 @@
       "active": true
     },
     {
-      "key": "hsckzyxyz",
-      "name": "黄色仓库",
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "key": "wwwhuyaapicom",
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
       "active": true
     },
     {
       "key": "wwwpgxdycom",
       "name": "黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
+      "active": true
+    },
+    {
+      "key": "jszyapicom",
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -223,9 +229,21 @@
       "active": true
     },
     {
+      "key": "semaozycom",
+      "name": "色猫资源",
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "shayuapicom",
+      "name": "鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -304,6 +322,12 @@
       "key": "xiaojizylive",
       "name": "小鸡资源",
       "api": "https://api.xiaojizy.live/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xinlangapicom",
+      "name": "新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "active": true
     },
     {
