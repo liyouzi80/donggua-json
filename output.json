@@ -43,6 +43,12 @@
       "active": true
     },
     {
+      "key": "apibwzymucom",
+      "name": "百万资源",
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "bfzytv",
       "name": "暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -184,6 +190,12 @@
       "key": "wwwmaoyanzycom",
       "name": "猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "mtzyme",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "active": true
     },
     {
