@@ -25,27 +25,9 @@
       "active": true
     },
     {
-      "key": "aosikazycom",
-      "name": "奥斯卡",
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wwwkxgavcom",
-      "name": "白嫖资源",
-      "api": "https://www.kxgav.com/api/json.php",
-      "active": true
-    },
-    {
       "key": "bdzycom",
       "name": "百度云zy",
       "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "apibwzymucom",
-      "name": "百万资源",
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -235,12 +217,6 @@
       "active": true
     },
     {
-      "key": "semaozycom",
-      "name": "色猫资源",
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -256,12 +232,6 @@
       "key": "shandianzycom",
       "name": "闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "siwazywtv",
-      "name": "丝袜资源",
-      "api": "https://siwazyw.tv/api.php/provide/vod",
       "active": true
     },
     {
@@ -292,12 +262,6 @@
       "key": "apiwwzytv",
       "name": "旺旺资源",
       "api": "https://api.wwzy.tv/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wolongzywcom",
-      "name": "卧龙资源",
-      "api": "https://wolongzyw.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -412,12 +376,6 @@
       "key": "apiukuapicom",
       "name": "U酷影视",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "zykcom",
-      "name": "���质资源",
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
       "active": true
     }
   ]
