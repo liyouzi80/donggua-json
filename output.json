@@ -211,6 +211,12 @@
       "active": true
     },
     {
+      "key": "naixxzycom",
+      "name": "奶香资源",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "pnet",
       "name": "飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
@@ -268,18 +274,6 @@
       "key": "thzyme",
       "name": "桃花资源",
       "api": "https://thzy1.me/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wwzytv",
-      "name": "旺旺短剧",
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "apiwwzytv",
-      "name": "旺旺资源",
-      "api": "https://api.wwzy.tv/api.php/provide/vod",
       "active": true
     },
     {
