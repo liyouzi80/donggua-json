@@ -97,15 +97,15 @@
       "active": true
     },
     {
-      "key": "hsckzyxyz",
-      "name": "黄色仓库",
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwjingpinxcom",
+      "name": "精品资源",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -157,9 +157,9 @@
       "active": true
     },
     {
-      "key": "mtzyme",
-      "name": "茅台资源",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "key": "wwwmsniicom",
+      "name": "美少女",
+      "api": "https://www.msnii.com/api/json.php",
       "active": true
     },
     {
@@ -175,6 +175,12 @@
       "active": true
     },
     {
+      "key": "naixxzycom",
+      "name": "奶香资源",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "pnet",
       "name": "飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
@@ -184,6 +190,12 @@
       "key": "wwwryzywcom",
       "name": "如意资源",
       "api": "https://pz.v88.qzz.io/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "slapibfcom",
+      "name": "森林资源",
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -235,6 +247,12 @@
       "active": true
     },
     {
+      "key": "xiangjiaozywcom",
+      "name": "香蕉资源",
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "xiaojizylive",
       "name": "小鸡资源",
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -283,6 +301,12 @@
       "active": true
     },
     {
+      "key": "ckzyme",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "ikunzycom",
       "name": "iKun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -292,6 +316,12 @@
       "key": "jkunzyapicom",
       "name": "jkun资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "souavzywcom",
+      "name": "souavZY",
+      "api": "https://api.souavzyw.net/api.php/provide/vod",
       "active": true
     },
     {
