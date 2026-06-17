@@ -169,6 +169,12 @@
       "active": true
     },
     {
+      "key": "wwwmaoyanzycom",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "mtzyme",
       "name": "茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -211,12 +217,6 @@
       "active": true
     },
     {
-      "key": "semaozycom",
-      "name": "色猫资源",
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -232,12 +232,6 @@
       "key": "shandianzycom",
       "name": "闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "siwazywtv",
-      "name": "丝袜资源",
-      "api": "https://siwazyw.tv/api.php/provide/vod",
       "active": true
     },
     {
@@ -280,12 +274,6 @@
       "key": "wwwxxibaozywcom",
       "name": "细胞资源",
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "xiangjiaozywcom",
-      "name": "香蕉资源",
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "active": true
     },
     {
