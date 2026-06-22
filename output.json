@@ -97,18 +97,6 @@
       "active": true
     },
     {
-      "key": "hsckzyxyz",
-      "name": "黄色仓库",
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wwwpgxdycom",
-      "name": "黄AVZY",
-      "api": "https://www.pgxdy.com/api/json.php",
-      "active": true
-    },
-    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -172,12 +160,6 @@
       "key": "mtzyme",
       "name": "茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wwwmsniicom",
-      "name": "美少女",
-      "api": "https://www.msnii.com/api/json.php",
       "active": true
     },
     {
@@ -268,12 +250,6 @@
       "key": "wwwxxibaozywcom",
       "name": "细胞资源",
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "xiangjiaozywcom",
-      "name": "香蕉资源",
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "active": true
     },
     {
