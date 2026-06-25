@@ -7,9 +7,21 @@
       "active": true
     },
     {
+      "key": "lovedannet",
+      "name": "艾旦影视",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "iqiyizyapicom",
       "name": "爱奇艺",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "bdzycom",
+      "name": "百度云zy",
+      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -25,9 +37,33 @@
       "active": true
     },
     {
+      "key": "apiguangsuapicom",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwhaohuazycom",
+      "name": "豪华资源",
+      "api": "https://pz.v88.qzz.io/?url=https://hhzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwhongniuzycom",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lzizynet",
+      "name": "量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -43,15 +79,51 @@
       "active": true
     },
     {
+      "key": "mtzyme",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "caijimoduapicc",
+      "name": "魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwmoduzynet",
       "name": "魔都资源",
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "active": true
     },
     {
+      "key": "pnet",
+      "name": "飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwryzywcom",
+      "name": "如意资源",
+      "api": "https://pz.v88.qzz.io/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwsubozycom",
+      "name": "速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wolongzywcom",
       "name": "卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wujinzycom",
+      "name": "无尽影视",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -67,6 +139,12 @@
       "active": true
     },
     {
+      "key": "zuidazyco",
+      "name": "最大点播",
+      "api": "https://zuidazy.me/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "zuidaxyz",
       "name": "最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -76,6 +154,12 @@
       "key": "ikunzycom",
       "name": "iKun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apiukuapicom",
+      "name": "U酷影视",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "active": true
     }
   ]
