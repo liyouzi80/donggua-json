@@ -103,12 +103,6 @@
       "active": true
     },
     {
-      "key": "hsckzyxyz",
-      "name": "黄色仓库",
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "jinyingzycom",
       "name": "金鹰点播",
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
