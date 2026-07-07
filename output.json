@@ -43,6 +43,12 @@
       "active": true
     },
     {
+      "key": "dbzytv",
+      "name": "豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "fhapicom",
       "name": "番号资源",
       "api": "http://fhapi9.com/api.php/provide/vod",
@@ -97,6 +103,12 @@
       "active": true
     },
     {
+      "key": "lbapicom",
+      "name": "乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "lzizynet",
       "name": "量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -115,9 +127,9 @@
       "active": true
     },
     {
-      "key": "wwwmaoyanzycom",
-      "name": "猫眼资源",
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "key": "mtzyme",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "active": true
     },
     {
