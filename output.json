@@ -181,12 +181,6 @@
       "active": true
     },
     {
-      "key": "wwwmaoyanzycom",
-      "name": "猫眼资源",
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "mtzyme",
       "name": "茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -232,6 +226,12 @@
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "shayuapicom",
+      "name": "鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
       "active": true
     },
     {
