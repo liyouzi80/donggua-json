@@ -217,12 +217,6 @@
       "active": true
     },
     {
-      "key": "semaozycom",
-      "name": "色猫资源",
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -238,12 +232,6 @@
       "key": "shandianzycom",
       "name": "闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "siwazywtv",
-      "name": "丝袜资源",
-      "api": "https://siwazyw.tv/api.php/provide/vod",
       "active": true
     },
     {
@@ -289,12 +277,6 @@
       "active": true
     },
     {
-      "key": "xiangjiaozywcom",
-      "name": "香蕉资源",
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "xiaojizylive",
       "name": "小鸡资源",
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -304,12 +286,6 @@
       "key": "xinlangapicom",
       "name": "新浪资源",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "xingbacom",
-      "name": "杏吧资源",
-      "api": "https://xingba222.com/api.php/provide/vod",
       "active": true
     },
     {
