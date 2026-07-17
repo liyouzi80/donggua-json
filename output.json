@@ -187,6 +187,12 @@
       "active": true
     },
     {
+      "key": "mtzyme",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwmsniicom",
       "name": "美少女",
       "api": "https://www.msnii.com/api/json.php",
@@ -214,12 +220,6 @@
       "key": "wwwryzywcom",
       "name": "如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "semaozycom",
-      "name": "色猫资源",
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
       "active": true
     },
     {
