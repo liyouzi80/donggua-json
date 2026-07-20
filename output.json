@@ -109,15 +109,15 @@
       "active": true
     },
     {
-      "key": "wwwpgxdycom",
-      "name": "黄AVZY",
-      "api": "https://www.pgxdy.com/api/json.php",
+      "key": "hsckzyxyz",
+      "name": "黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
       "active": true
     },
     {
-      "key": "jszyapicom",
-      "name": "极速资源",
-      "api": "https://jszyapi.com/api.php/provide/vod",
+      "key": "wwwpgxdycom",
+      "name": "黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
       "active": true
     },
     {
