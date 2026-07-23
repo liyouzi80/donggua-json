@@ -43,6 +43,12 @@
       "active": true
     },
     {
+      "key": "fhapicom",
+      "name": "番号资源",
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "apiguangsuapicom",
       "name": "光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -82,6 +88,12 @@
       "key": "kuaichezycom",
       "name": "快车资源",
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apilsbzycom",
+      "name": "老色逼",
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -184,6 +196,12 @@
       "key": "yhzycc",
       "name": "樱花资源",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zykcom",
+      "name": "优质资源",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
       "active": true
     },
     {
