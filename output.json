@@ -49,12 +49,6 @@
       "active": true
     },
     {
-      "key": "doudouzycom",
-      "name": "豆豆资源",
-      "api": "https://api.douapi.cc/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "fhapicom",
       "name": "番号资源",
       "api": "http://fhapi9.com/api.php/provide/vod",
@@ -169,27 +163,9 @@
       "active": true
     },
     {
-      "key": "naixxzycom",
-      "name": "奶香资源",
-      "api": "https://Naixxzy.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wwwryzywcom",
       "name": "如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "slapibfcom",
-      "name": "森林资源",
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "shayuapicom",
-      "name": "鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
       "active": true
     },
     {
