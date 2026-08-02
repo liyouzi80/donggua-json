@@ -43,21 +43,9 @@
       "active": true
     },
     {
-      "key": "didizycom",
-      "name": "滴滴资源",
-      "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "dbzytv",
       "name": "豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "doudouzycom",
-      "name": "豆豆资源",
-      "api": "https://api.douapi.cc/api.php/provide/vod",
       "active": true
     },
     {
@@ -76,12 +64,6 @@
       "key": "wwwhaohuazycom",
       "name": "豪华资源",
       "api": "https://hhzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "heiliaozycc",
-      "name": "黑料资源",
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -199,12 +181,6 @@
       "active": true
     },
     {
-      "key": "shayuapicom",
-      "name": "鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "shandianzycom",
       "name": "闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
@@ -220,12 +196,6 @@
       "key": "suonizynet",
       "name": "索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "thzyme",
-      "name": "桃花资源",
-      "api": "https://thzy1.me/api.php/provide/vod",
       "active": true
     },
     {
