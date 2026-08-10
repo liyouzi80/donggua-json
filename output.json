@@ -19,6 +19,12 @@
       "active": true
     },
     {
+      "key": "iqiyizyapicom",
+      "name": "爱奇艺",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "bdzycom",
       "name": "百度云zy",
       "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
@@ -196,6 +202,12 @@
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "shayuapicom",
+      "name": "鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
       "active": true
     },
     {
