@@ -193,18 +193,6 @@
       "active": true
     },
     {
-      "key": "caijimoduapicc",
-      "name": "魔都动漫",
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wwwmoduzynet",
-      "name": "魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "naixxzycom",
       "name": "奶香资源",
       "api": "https://Naixxzy.com/api.php/provide/vod",
