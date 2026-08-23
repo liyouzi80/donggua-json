@@ -13,7 +13,7 @@ https://liyouzi80.github.io/donggua-json/output.json
 ## 📊 当前状态
 
 - 可用站点数：**61**
-- 最近更新时间：**2026-08-22T08:28:58.552Z**
+- 最近更新时间：**2026-08-23T08:31:17.335Z**
 - 自动维护：GitHub Actions
 
 ---
