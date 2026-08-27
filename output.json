@@ -25,12 +25,6 @@
       "active": true
     },
     {
-      "key": "wwwkxgavcom",
-      "name": "白嫖资源",
-      "api": "https://www.kxgav.com/api/json.php",
-      "active": true
-    },
-    {
       "key": "bdzycom",
       "name": "百度云zy",
       "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
@@ -109,12 +103,6 @@
       "active": true
     },
     {
-      "key": "wwwpgxdycom",
-      "name": "黄AVZY",
-      "api": "https://www.pgxdy.com/api/json.php",
-      "active": true
-    },
-    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -187,12 +175,6 @@
       "active": true
     },
     {
-      "key": "wwwmsniicom",
-      "name": "美少女",
-      "api": "https://www.msnii.com/api/json.php",
-      "active": true
-    },
-    {
       "key": "caijimoduapicc",
       "name": "魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
@@ -214,12 +196,6 @@
       "key": "wwwryzywcom",
       "name": "如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "semaozycom",
-      "name": "色猫资源",
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
       "active": true
     },
     {
@@ -277,18 +253,6 @@
       "active": true
     },
     {
-      "key": "wwwxxibaozywcom",
-      "name": "细胞资源",
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "xiangjiaozywcom",
-      "name": "香蕉资源",
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "xiaojizylive",
       "name": "小鸡资源",
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -298,12 +262,6 @@
       "key": "xinlangapicom",
       "name": "新浪资源",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "xingbacom",
-      "name": "杏吧资源",
-      "api": "https://xingba222.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -340,12 +298,6 @@
       "key": "zuidaxyz",
       "name": "最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "lbapibycom",
-      "name": "AIvin",
-      "api": "http://lbapiby.com/api.php/provide/vod",
       "active": true
     },
     {
