@@ -97,12 +97,6 @@
       "active": true
     },
     {
-      "key": "hsckzyxyz",
-      "name": "黄色仓库",
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -112,12 +106,6 @@
       "key": "jinyingzycom",
       "name": "金鹰点播",
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "active": true
-    },
-    {
-      "key": "wwwjingpinxcom",
-      "name": "精品资源",
-      "api": "https://www.jingpinx.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -298,12 +286,6 @@
       "key": "zuidaxyz",
       "name": "最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "ckzyme",
-      "name": "CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod",
       "active": true
     },
     {
