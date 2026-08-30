@@ -79,12 +79,6 @@
       "active": true
     },
     {
-      "key": "heiliaozycc",
-      "name": "黑料资源",
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wwwhongniuzycom",
       "name": "红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -118,12 +112,6 @@
       "key": "apiljcom",
       "name": "辣椒资源",
       "api": "https://apilj.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "apilsbzycom",
-      "name": "老色逼",
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -217,12 +205,6 @@
       "active": true
     },
     {
-      "key": "thzyme",
-      "name": "桃花资源",
-      "api": "https://thzy1.me/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wolongzywcom",
       "name": "卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -268,12 +250,6 @@
       "key": "zykcom",
       "name": "优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
-      "active": true
-    },
-    {
-      "key": "apiyutucom",
-      "name": "玉兔资源",
-      "api": "https://apiyutu.com/api.php/provide/vod",
       "active": true
     },
     {
