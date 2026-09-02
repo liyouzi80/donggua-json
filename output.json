@@ -37,12 +37,6 @@
       "active": true
     },
     {
-      "key": "apidanaizicom",
-      "name": "大奶子",
-      "api": "https://apidanaizi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "dbzytv",
       "name": "豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
@@ -103,12 +97,6 @@
       "active": true
     },
     {
-      "key": "lbapicom",
-      "name": "乐播资源",
-      "api": "https://lbapi9.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "lzizynet",
       "name": "量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -157,12 +145,6 @@
       "active": true
     },
     {
-      "key": "slapibfcom",
-      "name": "森林资源",
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "shandianzycom",
       "name": "闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
@@ -187,9 +169,15 @@
       "active": true
     },
     {
-      "key": "xiaojizylive",
-      "name": "小鸡资源",
-      "api": "https://api.xiaojizy.live/provide/vod",
+      "key": "wujinzycom",
+      "name": "无尽影视",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wujinzyme",
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
       "active": true
     },
     {
@@ -238,12 +226,6 @@
       "key": "ikunzycom",
       "name": "iKun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "jkunzyapicom",
-      "name": "jkun资源",
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
       "active": true
     },
     {
