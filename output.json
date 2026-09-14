@@ -26,7 +26,7 @@
     },
     {
       "key": "wwwkxgavcom",
-      "name": "白嫖资源",
+      "name": "白��资源",
       "api": "https://www.kxgav.com/api/json.php",
       "active": true
     },
@@ -100,6 +100,12 @@
       "key": "wwwhuyaapicom",
       "name": "虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "hsckzyxyz",
+      "name": "黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
       "active": true
     },
     {
@@ -220,12 +226,6 @@
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "shayuapicom",
-      "name": "鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
       "active": true
     },
     {
