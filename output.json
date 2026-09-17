@@ -103,6 +103,12 @@
       "active": true
     },
     {
+      "key": "hsckzyxyz",
+      "name": "黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwpgxdycom",
       "name": "黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
@@ -196,6 +202,12 @@
       "key": "naixxzycom",
       "name": "奶香资源",
       "api": "https://Naixxzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "pnet",
+      "name": "飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
       "active": true
     },
     {
