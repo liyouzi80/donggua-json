@@ -205,6 +205,12 @@
       "active": true
     },
     {
+      "key": "semaozycom",
+      "name": "色猫资源",
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "slapibfcom",
       "name": "森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
