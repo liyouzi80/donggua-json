@@ -193,12 +193,6 @@
       "active": true
     },
     {
-      "key": "pnet",
-      "name": "飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wwwryzywcom",
       "name": "如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
