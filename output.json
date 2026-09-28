@@ -211,6 +211,12 @@
       "active": true
     },
     {
+      "key": "shayuapicom",
+      "name": "鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "shandianzycom",
       "name": "闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
@@ -322,12 +328,6 @@
       "key": "jkunzyapicom",
       "name": "jkun资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "souavzywcom",
-      "name": "souavZY",
-      "api": "https://api.souavzyw.net/api.php/provide/vod",
       "active": true
     },
     {
