@@ -91,6 +91,12 @@
       "active": true
     },
     {
+      "key": "hsckzyxyz",
+      "name": "黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwpgxdycom",
       "name": "黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
@@ -322,6 +328,12 @@
       "key": "jkunzyapicom",
       "name": "jkun资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "souavzywcom",
+      "name": "souavZY",
+      "api": "https://api.souavzyw.net/api.php/provide/vod",
       "active": true
     },
     {
