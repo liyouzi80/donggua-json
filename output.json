@@ -13,12 +13,6 @@
       "active": true
     },
     {
-      "key": "iqiyizyapicom",
-      "name": "爱奇艺",
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "bfzytv",
       "name": "暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
