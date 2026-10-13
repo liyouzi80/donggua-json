@@ -19,12 +19,6 @@
       "active": true
     },
     {
-      "key": "wwwkxgavcom",
-      "name": "白嫖资源",
-      "api": "https://www.kxgav.com/api/json.php",
-      "active": true
-    },
-    {
       "key": "bfzytv",
       "name": "暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -91,9 +85,9 @@
       "active": true
     },
     {
-      "key": "wwwpgxdycom",
-      "name": "黄AVZY",
-      "api": "https://www.pgxdy.com/api/json.php",
+      "key": "hsckzyxyz",
+      "name": "黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
       "active": true
     },
     {
@@ -118,6 +112,12 @@
       "key": "apiljcom",
       "name": "辣椒资源",
       "api": "https://apilj.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apilsbzycom",
+      "name": "老色逼",
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -157,12 +157,6 @@
       "active": true
     },
     {
-      "key": "wwwmsniicom",
-      "name": "美少女",
-      "api": "https://www.msnii.com/api/json.php",
-      "active": true
-    },
-    {
       "key": "caijimoduapicc",
       "name": "魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
@@ -184,12 +178,6 @@
       "key": "wwwryzywcom",
       "name": "如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "semaozycom",
-      "name": "色猫资源",
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
       "active": true
     },
     {
@@ -259,12 +247,6 @@
       "active": true
     },
     {
-      "key": "xingbacom",
-      "name": "杏吧资源",
-      "api": "https://xingba222.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "yayazycom",
       "name": "鸭鸭资源",
       "api": "https://cj.yayazy.net/api.php/provide/vod",
@@ -280,6 +262,12 @@
       "key": "zykcom",
       "name": "优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "active": true
+    },
+    {
+      "key": "apiyutucom",
+      "name": "玉兔资源",
+      "api": "https://apiyutu.com/api.php/provide/vod",
       "active": true
     },
     {
