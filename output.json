@@ -13,12 +13,6 @@
       "active": true
     },
     {
-      "key": "iqiyizyapicom",
-      "name": "爱奇艺",
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wwwkxgavcom",
       "name": "白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
@@ -211,6 +205,12 @@
       "active": true
     },
     {
+      "key": "shayuapicom",
+      "name": "鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "shandianzycom",
       "name": "闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
@@ -238,6 +238,12 @@
       "key": "wolongzywcom",
       "name": "卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wujinzycom",
+      "name": "无尽影视",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
       "active": true
     },
     {
