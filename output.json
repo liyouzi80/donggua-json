@@ -19,6 +19,12 @@
       "active": true
     },
     {
+      "key": "aosikazycom",
+      "name": "奥斯卡",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwkxgavcom",
       "name": "白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
@@ -91,12 +97,6 @@
       "active": true
     },
     {
-      "key": "hsckzyxyz",
-      "name": "黄色仓库",
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wwwpgxdycom",
       "name": "黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
@@ -124,6 +124,12 @@
       "key": "apiljcom",
       "name": "辣椒资源",
       "api": "https://apilj.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apilsbzycom",
+      "name": "老色逼",
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
       "active": true
     },
     {
@@ -286,6 +292,12 @@
       "key": "zykcom",
       "name": "优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "active": true
+    },
+    {
+      "key": "apiyutucom",
+      "name": "玉兔资源",
+      "api": "https://apiyutu.com/api.php/provide/vod",
       "active": true
     },
     {
