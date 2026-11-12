@@ -163,6 +163,12 @@
       "active": true
     },
     {
+      "key": "mtzyme",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwmsniicom",
       "name": "美少女",
       "api": "https://www.msnii.com/api/json.php",
@@ -238,12 +244,6 @@
       "key": "wolongzywcom",
       "name": "卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "wujinzycom",
-      "name": "无尽影视",
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
       "active": true
     },
     {
