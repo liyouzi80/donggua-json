@@ -91,12 +91,6 @@
       "active": true
     },
     {
-      "key": "hsckzyxyz",
-      "name": "黄色仓库",
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "active": true
-    },
-    {
       "key": "wwwpgxdycom",
       "name": "黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
@@ -244,6 +238,12 @@
       "key": "wolongzywcom",
       "name": "卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wujinzycom",
+      "name": "无尽影视",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
       "active": true
     },
     {
