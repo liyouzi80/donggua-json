@@ -91,6 +91,12 @@
       "active": true
     },
     {
+      "key": "hsckzyxyz",
+      "name": "黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "active": true
+    },
+    {
       "key": "wwwpgxdycom",
       "name": "黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
@@ -106,12 +112,6 @@
       "key": "jinyingzycom",
       "name": "金鹰点播",
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "active": true
-    },
-    {
-      "key": "kuaichezycom",
-      "name": "快车资源",
-      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "active": true
     },
     {
@@ -292,18 +292,6 @@
       "key": "apiyutucom",
       "name": "玉兔资源",
       "api": "https://apiyutu.com/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "zuidazyco",
-      "name": "最大点播",
-      "api": "https://zuidazy.me/api.php/provide/vod",
-      "active": true
-    },
-    {
-      "key": "zuidaxyz",
-      "name": "最大资源",
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
       "active": true
     },
     {
