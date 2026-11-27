@@ -25,6 +25,12 @@
       "active": true
     },
     {
+      "key": "wwwkxgavcom",
+      "name": "白嫖资源",
+      "api": "https://www.kxgav.com/api/json.php",
+      "active": true
+    },
+    {
       "key": "bfzytv",
       "name": "暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -91,6 +97,12 @@
       "active": true
     },
     {
+      "key": "wwwpgxdycom",
+      "name": "黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "active": true
+    },
+    {
       "key": "jszyapicom",
       "name": "极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -154,6 +166,12 @@
       "key": "mtzyme",
       "name": "茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwwmsniicom",
+      "name": "美少女",
+      "api": "https://www.msnii.com/api/json.php",
       "active": true
     },
     {
